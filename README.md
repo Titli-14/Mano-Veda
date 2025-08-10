@@ -1,13 +1,16 @@
 🚩 Problem Statement
+
 In India, Alzheimer’s disease often goes undetected until its later stages, especially in regions where neurological screening is scarce and specialist access is limited.
 Early cognitive decline signs — such as subtle memory loss, speech pattern changes, or problem-solving difficulties — can be overlooked due to lack of awareness, cultural stigma, and limited screening tools.
 There is a pressing need for an accessible, engaging, and non-invasive early detection system that can reach diverse populations, including those outside major healthcare hubs.
 
 🎯 Solution – Manoveda
+
 Manoveda is an AI-powered health-tech application that detects early signs of Alzheimer’s using a combination of cognitive games and voice analysis.
 The app makes early detection simple, engaging, and privacy-focused, enabling timely medical intervention and improved quality of life.
 
 ✨ Features Designed for Impact
+
 🧩 Cognitive Game Assessments – Scientifically designed puzzles and memory challenges to assess attention, recall, and problem-solving ability.
 
 🎤 AI-Powered Voice Analysis – Detects subtle changes in tone, speech fluency, and linguistic complexity that may indicate cognitive decline.
