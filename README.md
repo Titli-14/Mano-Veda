@@ -46,7 +46,7 @@ Infrastructure:
 
 >> Secure cloud-based architecture
 
-🌟 Future Roadmap
+🌟 Future Roadmap:
 
 "Imagine if just a voice could help someone’s grandfather remember their grandchild’s name again — or help a mother recognize the early signs of a disease that often goes unnoticed until it’s too late."
 
@@ -66,6 +66,6 @@ Planned Enhancements:
 
 🛡️ On-Device Processing – Ensuring sensitive voice and game data never leaves the user’s device.
 
-📽️ Demo
+📽️ Demo:
 
 🎥 Watch Demo Video: Click Here (https://youtu.be/ILr6ZaDCRH4?si=YBlBv9GaKquN33FE)
