@@ -26,27 +26,28 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 🛠️ Technologies Used
 
 AI Frameworks:
-TensorFlow and PyTorch for machine learning models
+>> TensorFlow and PyTorch for machine learning models
 
 OpenAI Whisper for speech processing
 
-Advanced neural networks for pattern recognition
+>> Advanced neural networks for pattern recognition
 
 Web Technologies:
-React.js and Next.js for frontend
+>> React.js and Next.js for frontend
 
-Node.js for backend development
+>> Node.js for backend development
 
-JavaScript and Python programming
+>> JavaScript and Python programming
 
 Infrastructure:
-Google Cloud for scalable deployment
+>> Google Cloud for scalable deployment
 
-MongoDB for data storage
+>> MongoDB for data storage
 
-Secure cloud-based architecture
+>> Secure cloud-based architecture
 
 🌟 Future Roadmap
+
 "Imagine if just a voice could help someone’s grandfather remember their grandchild’s name again — or help a mother recognize the early signs of a disease that often goes unnoticed until it’s too late."
 
 With Manoveda, we are working toward a future where early Alzheimer’s detection is as simple, gentle, and accessible as speaking.
@@ -66,4 +67,5 @@ Planned Enhancements:
 🛡️ On-Device Processing – Ensuring sensitive voice and game data never leaves the user’s device.
 
 📽️ Demo
+
 🎥 Watch Demo Video: Click Here (https://youtu.be/ILr6ZaDCRH4?si=YBlBv9GaKquN33FE)
