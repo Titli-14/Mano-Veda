@@ -24,22 +24,22 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 📱 Cross-Platform Accessibility – Built for mobile devices to ensure maximum reach across geographies.
 
 🛠️ Technologies Used
-🛠️ Technologies Used
-AI Frameworks
+
+AI Frameworks:
 TensorFlow and PyTorch for machine learning models
 
 OpenAI Whisper for speech processing
 
 Advanced neural networks for pattern recognition
 
-Web Technologies
+Web Technologies:
 React.js and Next.js for frontend
 
 Node.js for backend development
 
 JavaScript and Python programming
 
-Infrastructure
+Infrastructure:
 Google Cloud for scalable deployment
 
 MongoDB for data storage
