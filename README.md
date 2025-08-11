@@ -1,7 +1,7 @@
 ## 🧠**Mano Veda - An Early Detection App**🧠 ##
 
 
-🚩# ***Problem Statement*** #
+🚩 ***Problem Statement***
 
 In India, Alzheimer’s disease often goes undetected until its later stages, especially in regions where neurological screening is scarce and specialist access is limited.
 Early cognitive decline signs — such as subtle memory loss, speech pattern changes, or problem-solving difficulties — can be overlooked due to lack of awareness, cultural stigma, and limited screening tools.
@@ -28,10 +28,10 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 
 🛠️ ***Technologies Used***
 
-*AI Frameworks:*
+## *AI Frameworks:* ##
 >> TensorFlow and PyTorch for machine learning models
 
-*OpenAI Whisper for speech processing:*
+## *OpenAI Whisper for speech processing:* ##
 >> Advanced neural networks for pattern recognition
 
 ## *Web Technologies:* ##
@@ -41,7 +41,7 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 
 >> JavaScript and Python programming
 
-*Infrastructure:*
+ ## *Infrastructure:* ##
 >> Google Cloud for scalable deployment
 
 >> MongoDB for data storage
@@ -79,4 +79,4 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 3) Titli Dutta (*titlidutta2k20@gmail.com*)
 4) Dipanjan Basak (*dipanjanbasak9980@gmail.com*)
 
-***©2025 Mano Veda | Catch the signs, Care in time.***
+## **©2025 Mano Veda | Catch the signs, Care in time.** ##
