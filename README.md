@@ -1,7 +1,7 @@
 ## 🧠**Mano Veda - An Early Detection App**🧠 ##
 
 
-🚩 ***Problem Statement***
+🚩# ***Problem Statement*** #
 
 In India, Alzheimer’s disease often goes undetected until its later stages, especially in regions where neurological screening is scarce and specialist access is limited.
 Early cognitive decline signs — such as subtle memory loss, speech pattern changes, or problem-solving difficulties — can be overlooked due to lack of awareness, cultural stigma, and limited screening tools.
