@@ -79,3 +79,4 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 3) Titli Dutta (*titlidutta2k20@gmail.com*)
 4) Dipanjan Basak (*dipanjanbasak9980@gmail.com*)
 
+***©2025 Mano Veda | Catch the signs, Care in time.***
