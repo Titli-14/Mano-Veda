@@ -1,4 +1,4 @@
-## **Mano Veda - An Early Detection App** ##
+## 🧠**Mano Veda - An Early Detection App**🧠 ##
 
 
 🚩 ***Problem Statement***
