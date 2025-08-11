@@ -34,7 +34,7 @@ The app makes early detection simple, engaging, and privacy-focused, enabling ti
 *OpenAI Whisper for speech processing:*
 >> Advanced neural networks for pattern recognition
 
-##*Web Technologies:*##
+## *Web Technologies:* ##
 >> React.js and Next.js for frontend,Typescript
 
 >> Node.js for backend development
